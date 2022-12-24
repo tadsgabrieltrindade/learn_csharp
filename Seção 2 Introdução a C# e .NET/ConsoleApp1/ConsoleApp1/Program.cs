@@ -11,6 +11,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word!");
+
+            SByte x = 100;
+            Console.WriteLine(x);
+
+            Int16 y = 2093;
+            Console.WriteLine(y);
         }
     }
 }
